@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keypad</string>
+    <string name="Value">2+2</string>
+    <string name="Hello">Hello World!</string>
+    <string name="sayHello">Input Value</string>
+    <string name="Equal">=</string>
+    <string name="InputHint">Calculator Equation</string>
+</resources>
